@@ -1,0 +1,16 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@ohos/HomeModule" : "file:../HomeModule",
+    "@ohos/projectModule" : "file:../projectModule",
+    "@ohos/mineModule" : "file:../mineModule",
+    "@ohos/knowledgeModule" : "file:../knowledgeModule",
+    "@ohos/commonModule" : "file:../commonModule"
+  }
+}
+
